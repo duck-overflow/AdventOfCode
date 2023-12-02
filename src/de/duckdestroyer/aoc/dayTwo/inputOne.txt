@@ -1,0 +1,100 @@
+Spiel 1: 4 Grün, 3 Blau, 11 Rot; 7 Rot, 5 Grün, 10 Blau; 3 grün, 8 blau, 8 rot; 4 rot, 12 blau; 15 Rot, 3 Grün, 10 Blau
+Spiel 2: 3 Rot, 1 Blau, 2 Grün; 1 blau, 9 grün; 1 rot, 10 grün
+Spiel 3: 5 Grün, 9 Rot, 4 Blau; 3 grün, 7 blau; 12 Blau, 3 Grün, 3 Rot; 3 blau, 7 rot, 2 grün; 7 Blau, 3 Grün, 10 Rot
+Spiel 4: 2 Grün, 2 Blau; 12 Rot, 9 Grün, 2 Blau; 13 grün, 15 rot, 4 blau; 14 Rot, 3 Grün, 5 Blau; 6 rot, 1 grün; 1 blau, 2 rot, 2 grün
+Spiel 5: 2 Grün, 6 Blau; 1 rot, 3 grün, 5 blau; 3 grün, 4 blau; 3 Blau, 5 Grün, 1 Rot; 5 blau
+Spiel 6: 5 Grün, 1 Blau, 3 Rot; 8 grün, 15 rot; 16 grün, 5 rot, 1 blau
+Spiel 7: 1 Blau, 3 Rot, 11 Grün; 18 Rot, 16 Blau, 5 Grün; 13 blau, 5 grün; 1 Rot, 8 Grün, 15 Blau
+Spiel 8: 1 Grün, 14 Blau, 1 Rot; 10 blau; 1 grün
+Spiel 9: 4 Grün, 12 Blau, 1 Rot; 14 blau; 2 blau, 4 grün; 4 grün, 1 rot, 10 blau
+Spiel 10: 11 Grün, 9 Rot; 12 rot, 9 grün; 5 Rot, 7 Blau, 5 Grün; 6 grün, 1 blau, 12 rot; 3 rot, 3 blau; 16 Rot, 9 Blau, 7 Grün
+Spiel 11: 11 Grün, 1 Rot, 9 Blau; 2 rote, 13 grüne, 5 blaue; 5 grün, 2 rot, 5 blau; 5 grün, 7 blau; 1 Rot, 5 Blau, 1 Grün
+Spiel 12: 5 Grün, 1 Rot; 1 rot, 4 grün; 1 blau, 12 grün; 15 grün, 4 blau; 4 blau, 19 grün; 16 grün, 4 blau
+Spiel 13: 1 Rot, 9 Grün, 5 Blau; 10 Blau, 7 Grün, 1 Rot; 3 grün, 2 rot, 14 blau; 16 blau, 3 rot
+Spiel 14: 9 Rot, 1 Blau, 2 Grün; 16 blau, 7 rot; 2 grün, 3 rot, 14 blau; 1 grün, 9 blau
+Spiel 15: 6 Blau; 4 blau; 1 rot, 16 blau, 3 grün
+Spiel 16: 14 Grün, 5 Rot, 1 Blau; 1 rot, 1 blau; 5 blau
+Spiel 17: 1 Blau, 1 Grün, 3 Rot; 2 rot, 2 blau, 2 grün; 1 blau, 1 rot; 1 rot, 2 grün, 2 blau; 2 blau; 1 grün, 2 rot, 1 blau
+Spiel 18: 4 Blau, 2 Grün, 1 Rot; 1 Grün, 1 Rot, 10 Blau; 1 grün, 1 rot, 2 blau; 1 rot, 5 blau; 3 grün, 6 blau; 1 Rot, 1 Grün, 7 Blau
+Spiel 19: 1 Blau, 13 Grün, 12 Rot; 7 blau, 2 grün, 1 rot; 1 blau, 3 rot, 3 grün; 3 Blau, 8 Grün, 10 Rot; 7 blau, 2 grün
+Spiel 20: 1 Rot, 17 Blau; 10 blau, 5 grün; 9 grün, 1 rot, 3 blau; 1 rot, 5 grün, 1 blau
+Spiel 21: 3 Rot, 6 Blau, 5 Grün; 4 blau, 1 rot, 7 grün; 6 blau, 4 rot, 9 grün
+Spiel 22: 11 Blau, 2 Rot, 6 Grün; 16 Blau, 5 Rot, 6 Grün; 12 Rot, 2 Grün, 10 Blau; 14 blau, 2 grün, 11 rot
+Spiel 23: 3 Rot, 5 Grün; 10 Blau, 1 Grün, 9 Rot; 2 rote, 10 grüne, 9 blaue; 9 blau, 7 grün
+Spiel 24: 8 Blau, 1 Rot; 3 rot, 9 blau; 9 grün, 2 rot, 8 blau
+Spiel 25: 2 Rot, 1 Grün, 1 Blau; 1 grün, 12 blau, 2 rot; 2 rot, 1 blau; 2 blau; 1 grün, 10 blau; 6 blau
+Spiel 26: 2 Rot; 4 grün, 1 rot, 7 blau; 11 blau, 2 rot, 4 grün; 1 rot, 1 blau; 1 rot, 5 grün, 12 blau
+Spiel 27: 1 Rot, 7 Grün, 8 Blau; 13 grün, 12 blau, 1 rot; 6 Rot, 1 Grün, 10 Blau; 8 rote, 2 blaue, 2 grüne; 11 Blau, 4 Grün, 4 Rot
+Spiel 28: 1 Rot, 8 Blau, 3 Grün; 12 grün, 4 blau; 1 Rot, 4 Blau, 11 Grün; 7 Blau, 10 Grün, 10 Rot; 11 blau, 7 rot, 8 grün; 10 rote, 2 grüne, 2 blaue
+Spiel 29: 4 Grün, 2 Rot; 1 blau, 11 rot; 2 blau, 3 grün, 1 rot; 16 rot; 3 grün, 8 rot, 1 blau; 2 blau, 7 grün, 12 rot
+Spiel 30: 1 Blau, 3 Grün; 4 grün, 2 blau; 3 rot, 5 blau; 4 grün, 1 rot
+Spiel 31: 2 Rot, 2 Blau, 3 Grün; 2 grün, 3 blau, 8 rot; 7 rot, 16 blau, 2 grün; 5 Rot, 20 Blau, 2 Grün
+Spiel 32: 2 Rot, 1 Grün, 4 Blau; 4 grün, 4 rot, 1 blau; 4 rot, 4 blau; 1 blau, 4 rot, 2 grün; 4 Blau, 3 Grün, 4 Rot
+Spiel 33: 11 Grün, 4 Blau, 10 Rot; 2 grün, 13 rot, 7 blau; 13 Rot, 2 Blau, 8 Grün; 15 Rot, 9 Blau, 12 Grün; 14 rote, 10 grüne, 2 blaue; 13 rot, 7 grün
+Spiel 34: 11 Rot, 6 Blau, 4 Grün; 16 rote, 7 blaue, 4 grüne; 6 rote, 18 grüne, 6 blaue; 3 blau, 16 rot, 3 grün; 2 rote, 3 blaue, 17 grüne; 3 grün, 9 rot, 6 blau
+Spiel 35: 6 Grün, 10 Rot, 12 Blau; 4 rot, 1 blau, 2 grün; 3 grün, 8 blau, 7 rot; 6 rote, 12 blaue, 2 grüne
+Spiel 36: 4 Grün, 2 Blau, 2 Rot; 3 grün, 10 rot, 1 blau; 1 blau, 3 grün, 2 rot; 2 grün, 1 rot; 1 blau, 5 rot
+Spiel 37: 3 Blau, 1 Rot, 2 Grün; 8 Rot, 4 Grün, 10 Blau; 4 rot, 4 grün
+Spiel 38: 13 Grün, 3 Rot, 2 Blau; 1 rot, 13 grün, 2 blau; 20 grün, 3 rot, 2 blau; 1 rot, 2 blau, 12 grün
+Spiel 39: 13 Blau, 1 Rot, 8 Grün; 5 Rot, 3 Grün, 8 Blau; 6 blau, 4 grün; 18 Blau, 7 Grün, 1 Rot; 4 grün, 3 blau, 5 rot; 6 Blau, 4 Rot, 1 Grün
+Spiel 40: 2 Rot, 2 Blau, 9 Grün; 1 blau, 2 rot, 12 grün; 16 grün, 11 blau, 1 rot; 1 grün, 2 rot; 3 blau, 2 rot
+Spiel 41: 7 Blau, 1 Rot; 4 blau, 1 rot; 3 blau, 1 rot, 2 grün; 13 blau
+Spiel 42: 18 Rot, 1 Grün, 13 Blau; 2 blau, 2 grün, 7 rot; 16 rot, 12 blau; 1 grün, 10 blau, 14 rot
+Spiel 43: 15 Rot, 6 Grün, 2 Blau; 3 blau, 9 rot, 3 grün; 13 rot
+Spiel 44: 2 Blau, 5 Grün, 3 Rot; 4 rote, 4 blaue, 19 grüne; 5 Rot, 3 Blau, 9 Grün; 19 grün, 6 rot, 5 blau
+Spiel 45: 5 Rot, 4 Grün, 13 Blau; 12 rot, 10 blau; 3 grün, 9 blau, 5 rot; 10 Blau, 18 Rot, 5 Grün; 16 Rot, 6 Grün, 17 Blau
+Spiel 46: 3 Grün; 3 grün, 2 blau; 4 blau, 2 rot, 3 grün; 5 Blau, 3 Grün, 4 Rot; 1 grün, 1 blau
+Spiel 47: 2 Blau, 1 Rot, 10 Grün; 2 rot; 6 rot, 1 blau; 16 rote, 2 blaue, 8 grüne; 5 blau, 8 rot, 7 grün
+Spiel 48: 11 Grün, 4 Rot, 2 Blau; 2 blau, 5 grün, 8 rot; 9 grün, 6 rot; 3 rote, 3 grüne, 1 blaue; 2 Blau, 12 Grün, 17 Rot
+Spiel 49: 10 Blau, 4 Grün, 1 Rot; 10 rot, 10 blau; 12 blau, 7 rot; 13 blau, 6 grün
+Spiel 50: 1 Rot, 19 Grün, 7 Blau; 4 Rot, 1 Grün, 5 Blau; 16 grün, 8 rot, 8 blau
+Spiel 51: 12 Grün, 18 Blau; 13 grün, 14 blau, 4 rot; 7 grün, 4 rot, 14 blau; 8 grün, 2 blau, 3 rot; 16 blau, 8 grün
+Spiel 52: 9 Blau, 9 Grün, 3 Rot; 8 Blau, 1 Grün, 13 Rot; 2 rote, 8 blaue, 9 grüne; 13 rot, 4 grün; 6 grün, 15 rot; 11 blau, 11 rot, 9 grün
+Spiel 53: 2 Rot, 4 Grün, 3 Blau; 5 blau, 16 grün; 4 blau, 8 rot, 12 grün
+Spiel 54: 6 Rot, 16 Grün; 6 rot, 15 grün; 8 grün, 8 rot, 2 blau
+Spiel 55: 9 Rot, 2 Grün; 4 blau; 2 grün, 2 rot, 7 blau; 1 Rot, 16 Blau, 1 Grün; 17 blau, 5 rot
+Spiel 56: 14 Grün, 3 Rot, 9 Blau; 14 Blau, 15 Grün, 2 Rot; 8 Rot, 13 Blau, 15 Grün; 15 blau, 2 rot, 12 grün; 3 Rot, 7 Blau, 10 Grün; 10 blau, 13 grün
+Spiel 57: 1 Blau, 10 Grün, 2 Rot; 4 Blau, 9 Grün, 11 Rot; 2 blau
+Spiel 58: 4 Rot, 2 Blau, 5 Grün; 1 blau, 5 grün, 4 rot; 3 grün, 4 rot, 8 blau; 4 blau, 7 grün; 5 grün, 4 blau; 1 blau, 6 rot
+Spiel 59: 5 Blau, 4 Rot, 3 Grün; 8 Blau, 12 Grün, 5 Rot; 5 Rot, 8 Blau, 15 Grün
+Spiel 60: 6 Rot, 12 Blau, 1 Grün; 10 Blau, 20 Grün, 4 Rot; 6 Blau, 1 Grün, 5 Rot; 9 rot, 12 blau, 14 grün; 15 grün, 1 rot, 14 blau; 10 grün, 13 blau
+Spiel 61: 1 Blau, 12 Grün, 3 Rot; 4 grün, 1 rot, 4 blau; 8 Rot, 4 Grün, 6 Blau
+Spiel 62: 6 Blau, 7 Grün, 3 Rot; 6 blau, 3 rot, 3 grün; 11 grün, 6 rot, 2 blau; 2 rot, 6 blau, 3 grün; 2 grün, 3 blau, 3 rot; 3 blau, 11 grün, 11 rot
+Spiel 63: 5 Grün, 6 Blau, 4 Rot; 6 grün, 12 blau; 3 grün, 9 blau, 10 rot; 1 blau, 4 rot, 5 grün
+Spiel 64: 10 Grün, 14 Rot; 1 blau, 9 rot; 3 grün, 10 blau, 14 rot; 5 grün, 3 blau, 12 rot; 5 blau, 12 rot, 13 grün
+Spiel 65: 1 Rot, 5 Grün, 10 Blau; 14 Rot, 5 Grün, 10 Blau; 10 Blau, 10 Rot
+Spiel 66: 9 Grün, 8 Blau, 1 Rot; 8 rot, 14 blau; 8 rote, 7 blaue, 2 grüne; 4 Blau, 3 Grün, 5 Rot; 2 rote, 8 grüne, 8 blaue
+Spiel 67: 4 Rot, 3 Grün, 3 Blau; 4 grün, 1 blau, 4 rot; 1 blau, 3 rot; 10 blau; 16 Blau, 6 Rot, 4 Grün
+Spiel 68: 6 Blau, 6 Grün, 9 Rot; 4 blau, 9 rot, 3 grün; 3 blau, 8 rot
+Spiel 69: 4 Grün, 12 Rot, 3 Blau; 2 rot, 3 blau; 2 blau, 4 rot, 2 grün; 1 blau, 3 rot
+Spiel 70: 4 Rot, 3 Grün, 15 Blau; 1 grün, 4 rot; 1 rot, 1 grün, 5 blau
+Spiel 71: 4 Blau, 2 Rot, 10 Grün; 7 rot, 6 blau, 11 grün; 4 Blau, 7 Rot, 8 Grün
+Spiel 72: 9 Rot, 9 Blau, 1 Grün; 4 Rot, 6 Grün, 5 Blau; 3 grün, 7 rot, 2 blau
+Spiel 73: 3 Grün, 9 Rot; 4 grün, 15 rot; 12 rot, 2 blau; 14 rot, 3 grün
+Spiel 74: 2 Rot, 6 Blau, 1 Grün; 3 rot, 6 blau; 1 grün, 12 blau, 14 rot
+Spiel 75: 3 Grün, 18 Rot; 1 Grün, 7 Rot, 1 Blau; 2 rot, 2 grün, 3 blau; 11 rot; 2 rote, 3 grüne, 2 blaue
+Spiel 76: 6 Grün, 2 Rot, 5 Blau; 13 grün, 5 blau; 5 Blau, 1 Rot, 1 Grün
+Spiel 77: 4 Blau, 6 Grün, 3 Rot; 15 rot, 1 grün; 4 grün, 11 rot, 13 blau; 8 Blau, 6 Grün, 9 Rot; 3 Blau, 1 Grün, 11 Rot; 3 grün, 3 rot
+Spiel 78: 11 Grün, 1 Blau, 2 Rot; 7 Rot, 16 Blau, 11 Grün; 9 Blau, 10 Rot, 6 Grün; 1 Grün, 8 Blau, 10 Rot; 8 Blau, 6 Rot, 1 Grün
+Spiel 79: 2 Blau, 5 Grün, 4 Rot; 1 Blau, 1 Rot, 1 Grün; 1 Blau, 5 Rot, 10 Grün; 6 rote, 3 grüne, 3 blaue; 8 Rot, 9 Grün, 6 Blau; 7 blau, 6 grün, 13 rot
+Spiel 80: 10 Grün, 7 Blau, 5 Rot; 5 Rot, 1 Grün, 6 Blau; 8 Blau, 2 Rot, 8 Grün
+Spiel 81: 3 Grün, 10 Rot; 6 Blau, 8 Grün, 14 Rot; 4 grün, 4 blau, 13 rot; 5 blau, 11 grün, 6 rot; 16 Rot, 8 Grün, 5 Blau; 6 grün, 18 rot, 6 blau
+Spiel 82: 13 Rot, 1 Grün, 7 Blau; 8 grün, 4 blau, 12 rot; 18 rote, 5 grüne, 3 blaue; 13 Rot, 4 Grün, 9 Blau
+Spiel 83: 1 Rot, 3 Grün, 4 Blau; 5 Blau, 4 Grün, 1 Rot; 3 grün, 1 rot, 12 blau; 4 grün, 11 blau
+Spiel 84: 3 Blau, 10 Grün, 2 Rot; 3 rot, 8 blau; 11 blau, 12 rot, 14 grün; 2 rote, 11 grüne, 2 blaue
+Spiel 85: 8 Blau, 2 Grün, 1 Rot; 13 blau, 6 rot; 3 blau, 5 grün
+Spiel 86: 16 Rot, 8 Blau; 7 blau; 16 Rot, 16 Blau, 1 Grün; 15 blau, 11 rot; 2 grün, 7 rot, 5 blau
+Spiel 87: 6 Grün, 9 Blau, 4 Rot; 1 Rot, 1 Grün, 4 Blau; 5 blau, 13 grün, 3 rot; 2 grün, 4 rot; 16 Blau, 10 Grün, 3 Rot
+Spiel 88: 1 Blau, 14 Rot; 14 rote, 3 blaue, 8 grüne; 1 blau, 5 grün
+Spiel 89: 12 Grün, 14 Blau, 3 Rot; 2 rot, 3 blau, 3 grün; 2 blau, 8 grün; 1 rot, 3 grün, 15 blau; 3 rot, 5 blau
+Spiel 90: 3 Blau, 17 Rot, 11 Grün; 2 rote, 2 blaue, 7 grüne; 7 blau; 8 Blau, 4 Grün, 10 Rot; 1 blau, 4 rot
+Spiel 91: 10 Rot, 9 Blau, 8 Grün; 5 Blau, 10 Rot, 2 Grün; 11 Rot, 17 Grün, 7 Blau; 12 Blau, 16 Rot, 18 Grün; 20 grün, 5 blau, 15 rot
+Spiel 92: 1 Grün, 14 Rot, 1 Blau; 2 blau, 6 grün; 9 rot, 6 grün; 5 Blau, 5 Rot, 2 Grün; 3 Blau, 3 Grün, 10 Rot; 5 blau, 1 rot
+Spiel 93: 10 Grün, 1 Rot, 6 Blau; 16 rote, 5 blaue, 2 grüne; 3 Rot, 7 Grün, 11 Blau; 12 grün, 5 blau, 4 rot; 8 grün, 7 blau, 10 rot; 1 rot, 5 blau
+Spiel 94: 3 Blau, 1 Rot, 3 Grün; 1 blau, 4 grün, 4 rot; 9 grün
+Spiel 95: 3 Grün, 5 Blau, 9 Rot; 2 grün, 9 rot, 2 blau; 12 rot, 9 grün; 11 grün, 9 rot, 9 blau; 9 Blau, 6 Grün, 10 Rot; 13 Rot, 2 Blau, 5 Grün
+Spiel 96: 2 Rot, 19 Blau, 2 Grün; 10 blau, 1 rot, 2 grün; 9 blau, 1 rot; 2 grün, 3 blau; 1 grün, 1 rot, 11 blau
+Spiel 97: 6 Grün, 7 Blau, 5 Rot; 7 grün, 1 rot, 11 blau; 6 grün, 6 rot, 5 blau; 2 Rot, 9 Blau, 1 Grün
+Spiel 98: 5 Grün, 8 Rot, 15 Blau; 16 grün, 9 blau, 8 rot; 5 blau, 3 rot, 2 grün; 13 Blau, 12 Grün, 4 Rot; 2 rote, 15 grüne, 3 blaue; 1 grün, 11 blau, 2 rot
+Spiel 99: 1 Grün, 7 Blau, 6 Rot; 16 blau, 9 rot; 1 grün, 17 rot, 12 blau; 15 rot, 7 blau; 8 blau, 14 rot
+Spiel 100: 5 Blau, 11 Rot, 6 Grün; 11 rot, 2 blau, 5 grün; 6 blau, 6 grün; 2 blau, 6 rot, 15 grün; 7 rot, 4 blau, 7 grün
